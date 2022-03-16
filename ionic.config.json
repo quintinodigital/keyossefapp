@@ -1,0 +1,7 @@
+{
+  "name": "keyossefapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
